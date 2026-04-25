@@ -30,5 +30,4 @@ echo "Strrev: " . strrev("Pamijahan") . "<br>";
 
 // str_replace
 echo "Str_replace: " . str_replace("PHP", "JavaScript", $kalimat) . "<br>";
-// Project 9.6 By ASEP SURYA AGUSTIN - 221011450392
 ?>
