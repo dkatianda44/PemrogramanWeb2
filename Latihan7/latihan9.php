@@ -9,6 +9,4 @@ if (in_array($cari, $program)) {
     echo "Program Basis Web $cari tidak ada di dalam array";
 }
 
-//Project 7.9 By ASEP SURYA AGUSTIN - 221011450392
-
 ?>
