@@ -13,5 +13,4 @@ if (in_array(1.13, $tipe, TRUE)) {
 } else {
     echo "Bilangan 1.13 tidak ada di dalam array";
 }
-//Project 7.10 By ASEP SURYA AGUSTIN - 221011450392
 ?>
